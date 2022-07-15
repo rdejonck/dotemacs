@@ -39,4 +39,6 @@ var/
 .cache/
 .lsp-session*
 gotools/
+eln-cache/
+projectile-bookmarks.eld
 
