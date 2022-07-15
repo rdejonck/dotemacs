@@ -1,5 +1,6 @@
 # Compiled
 *.elc
+*.eln
 
 # Packaging
 .cask
@@ -9,3 +10,33 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+auto-save-list
+recentf
+savehist
+saveplace
+eshell
+elpa
+el-get
+semanticdb
+url
+ede-projects.el
+.DS_Store
+custom.el
+places
+.smex-items
+savefile/
+session*
+tramp
+.emacs.desktop
+.emacs.desktop.lock
+network-security.data
+prelude-cheatsheet.el
+prelude-cheatsheet.aux
+prelude-cheatsheet.log
+transient/
+var/
+.cache/
+.lsp-session*
+gotools/
+
