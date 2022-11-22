@@ -14,7 +14,9 @@
 (add-to-list 'default-frame-alist '(width . 90))
 
 ;; Configure the minimap
-(setq minimap-major-modes '(prog-mode))
+(setq minimap-major-modes '(prog-mode
+                            markdown-mode
+                            text-mode))
 (setq minimap-window-location 'right)
 (setq minimap-minimum-width 10)
 (setq minimap-dedicated-window t)
